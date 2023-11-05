@@ -23,7 +23,7 @@ h1{
     transform: translate(-50%,-50%);
     font-family: buttermilk;
     font-weight: 100;
-    font-size: 160px;
+    font-size: 100px;
     color: #fff;
     mix-blend-mode :difference;
 }
