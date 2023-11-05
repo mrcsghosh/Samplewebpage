@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#bg{
+    height: 100%;
+    width: 100%;
+    background-image: url();
+    background-size: cover;
+}
+h1{
+    position :absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: buttermilk;
+    font-weight: 100;
+    font-size: 190px;
+    color: #fff;
+    mix-blend-mode :difference;
+}
