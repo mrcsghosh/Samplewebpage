@@ -6,11 +6,14 @@
 html,body{
     height: 100%;
     width: 100%;
+        font-family: 'Tangerine', serif;
+        font-size: 40px;
+        text-shadow: 4px 4px 4px #aaa;
 }
-#bg{
+.myback{
     height: 100%;
     width: 100%;
-    background-image: url();
+    background-image: url(./bg.webp);
     background-size: cover;
 }
 h1{
