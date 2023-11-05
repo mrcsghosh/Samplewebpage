@@ -19,11 +19,11 @@ html,body{
 h1{
     position :absolute;
     top: 50%;
-    left: 50%;
+    left: 55%;
     transform: translate(-50%,-50%);
     font-family: buttermilk;
     font-weight: 100;
-    font-size: 190px;
+    font-size: 160px;
     color: #fff;
     mix-blend-mode :difference;
 }
